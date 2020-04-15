@@ -8,9 +8,10 @@
   <title></title>
   
   <style>
+  
     #page-body {background-color:skyblue}
-    #first-paragraph {background-color:}
-    img {margin-top: 50px;
+   
+   img {margin-top: 50px;
    margin-bottom: 50px;}
     
     body {background-color: skyblue;}
